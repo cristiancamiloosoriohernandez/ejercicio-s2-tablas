@@ -1,0 +1,21 @@
+div{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    border-collapse: collapse;
+    border: 6px solid black;
+    border-top-right-radius: 6px;
+    padding: 6px;
+    text-align: center;
+}
+td{
+    border: 1px solid grey;
+    padding: 6px;
+}
+
+#uno{
+    border-bottom: 6px solid black;
+}
